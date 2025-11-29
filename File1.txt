@@ -7,4 +7,5 @@ this is for git-jenkins-test2
 this is for git-jennkins-test3.
 this is for git-jenkins-test 4 success.
 this is for git-jenkins-test 5 success.
-this is for git jenkins-tet 6 success.
+this is for git jenkins-test 6 success.
+this is for git jenkins-test 7 success.
